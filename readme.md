@@ -1,6 +1,6 @@
 # Touchstream <-> Mux Video API
 
-Inside video/helpers there's a config file, it contains the API keys for Touchstream and Mux, you will only need to update the Mux API credentials, I've done the TS part for you.
+Inside video/helpers there's a config file, it contains the API keys for Touchstream and Mux, you will  need to update the Mux API and Touchstream API credentials.
 
 ```
 mux_token_id = ""
